@@ -1,4 +1,6 @@
 # SaaS Sales through Amazon: Maximizing Efficiency and Growth
+Dashboard Tableau <a href="https://public.tableau.com/views/CAPSTONE2_17176528829280/saas-dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">here</a>
+
 
 This repository contains the Jupyter notebook for the capstone project "SaaS Sales through Amazon: Maximizing Efficiency and Growth" by Annisa Ditasila. The project focuses on analyzing sales data to optimize pricing strategies and identify growth opportunities.
 
@@ -7,9 +9,6 @@ This repository contains the Jupyter notebook for the capstone project "SaaS Sal
 - [Objectives](#objectives)
 - [Analytical Approaches](#analytical-approaches)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project analyzes the sales data of a SaaS company operating through Amazon. The aim is to leverage data analysis techniques to enhance operational efficiency and drive growth opportunities. The analysis covers variable correlation, product influence, customer impact, and geographical prospects.
